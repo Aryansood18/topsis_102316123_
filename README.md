@@ -1,4 +1,4 @@
-# Topsis-Vansh-102316118
+# Topsis-Aryan Sood-102316123
 
 ## 📌 TOPSIS - Technique for Order of Preference by Similarity to Ideal Solution
 
@@ -17,7 +17,7 @@ This project provides a command-line implementation of the TOPSIS method in Pyth
 ### Install from PyPI
 
 ```bash
-pip install Topsis-Vansh-102316118
+pip install Topsis-Aryan-102316123
 ```
 
 ### Install Locally (from project directory)
